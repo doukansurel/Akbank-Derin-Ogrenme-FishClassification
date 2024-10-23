@@ -50,5 +50,18 @@ Model, doğruluk ve kayıp metrikleri ile eğitilmiş ve değerlendirilmiştir. 
 ## Kullanım
 Projeyi çalıştırmak için sağlanan Jupyter Not Defterini (`fishclassification.ipynb`) açıp adım adım hücreleri çalıştırın. Gerekli kütüphanelerin yüklü olduğundan emin olun.
 
+## Geliştirme Fikirleri
+ANN mimarisi ile alınabilen en yüksek sonuçlardan biri olduğunu düşünüyorum. Daha iyi bir sınıflandırma için elbette daha karmaşık katmanlı modeller oluşturulabilir, Data Augmentation işlemi gerçekleştirilebilir, HiperParametrelerde bazı oynamalar ile alınan sonucun daha üstüne çıkılabilir olduğunu düşünüyorum. Bu projede en çok katmanlardaki nöronlarda ve learning-rate ile değiştirilerek sonuçlarda ciddi bir düzelme gerçekleşmiştir. İnceleyen arkadaşlara şimdiden teşekkürlerimi sunuyorum. İyi çalışmalar...
+
 ## Teşekkürler
-Bu proje, halka açık veri setleri ve açık kaynaklı araçlar kullanılarak geliştirilmiştir. TensorFlow, Pandas ve Scikit-learn geliştiricilerine, bu çalışmayı mümkün kıldıkları için teşekkür ederiz.
+Bu proje, halka açık veri setleri ve açık kaynaklı araçlar kullanılarak geliştirilmiştir.
+@inproceedings {ulucan2020large,
+title={Balık Segmentasyonu ve Sınıflandırması İçin Büyük Ölçekli Bir Veri Seti},
+author={Ulucan, Oguzhan ve Karakaya, Diclehan ve Turkan, Mehmet},
+booktitle={2020 Akıllı Sistemler ve Uygulamalarında Yenilikler Konferansı (ASYU)},
+pages={1--5},
+year={2020},
+organization={IEEE}
+}
+O.Ulucan, D.Karakaya ve M.Turkan.(2020) Balık segmentasyonu ve sınıflandırması için büyük ölçekli bir veri seti.
+Conf. Innovations Intell. Syst. Appli. (ASYU)
