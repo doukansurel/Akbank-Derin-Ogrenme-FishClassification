@@ -1,7 +1,7 @@
 
 # Balık Sınıflandırma Projesi
 
-Bu proje, TensorFlow ve diğer ilgili kütüphaneler kullanılarak geliştirilen bir Yapay Sinir Ağı (ANN) modeli ile balık türlerini sınıflandırmayı amaçlamaktadır.
+Bu proje, Akbank Derin Öğrenme Bootcamp için hazırlanmış, TensorFlow ve diğer ilgili kütüphaneler kullanılarak geliştirilen bir Yapay Sinir Ağı (ANN) modeli ile balık türlerini sınıflandırmayı amaçlamaktadır.
 
 ## İçindekiler
 1. Proje Genel Bakış
@@ -11,7 +11,8 @@ Bu proje, TensorFlow ve diğer ilgili kütüphaneler kullanılarak geliştirilen
 5. Model Mimarisi
 6. Sonuçlar
 7. Kullanım
-8. Teşekkürler
+8. Geliştirme Fikirleri
+9. Teşekkürler
 
 ## Proje Genel Bakış
 Bu proje, balık türlerini sınıflandırmak için bir sınıflandırma sistemi geliştirir. Veri seti, balıkların resimlerini içerir ve model bu görüntüleri işleyerek balığın türünü tahmin eder. Geliştirme ve test için Python ve Jupyter Notebook kullanılmıştır.
