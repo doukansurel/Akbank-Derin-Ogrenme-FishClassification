@@ -29,7 +29,7 @@ Bu proje, balık türlerini sınıflandırmak için bir sınıflandırma sistemi
 ## Kurulum
 1. Bu projeyi klonlayın:
    ```bash
-   (https://github.com/doukansurel/Akbank-Derin-Ogrenme-FishClassification.git)
+   https://github.com/doukansurel/Akbank-Derin-Ogrenme-FishClassification.git
    ```
 2. Gerekli paketleri yükleyin:
    ```bash
